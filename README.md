@@ -37,7 +37,7 @@ The required dependencies for **ParStream-seq** are JDK – 1.8, Bowtie2 Version
 		4 -	number of split	- 2/4/8 <br/>
 		5 -	number of threads – 2 to 8 <br/>
 
-* To execute the alignment process with reference file split and java threads and query file splits. <br/>
+* To execute the alignment process with reference file split, Java threads, and query file splits. <br/>
 	N.B – the reference file indices (.bt2) should be kept in the working directory. <br/>
 	* To run the qrrstream.jar the jar option are : < 1 > < 2 > < 3 >  <br/>
 		1 -	input file with .fa extension 			    
@@ -45,11 +45,11 @@ The required dependencies for **ParStream-seq** are JDK – 1.8, Bowtie2 Version
 		3 -	number of split fixed size – 2/4/8
 
 * merge_sam_out.sh file for merge all the split result to a single result file.
-* There are already mentioned Hadoop commands to put all the file into HDFS or a single file into HDFS. <br/>
+* Hadoop commands are already mentioned to put all the files into HDFS or a single file into HDFS. <br/>
 
 Go through the **user_manual.doc** file for the same instruction.<br/>
 
 #### Feedback <br/>
-Any further information mail me at smcse_rs@caluniv.ac.in
+Feel free to email me any more information.
 
 
